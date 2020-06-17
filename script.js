@@ -47,9 +47,6 @@ $("button").on("click", function () {
         // Creating and storing a div tag
         var currencyDiv = $("<div>");
 
-        // Creating a paragraph tag with the result item's rating
-        //var p = $("<p>").text("Rating: " + results[i].rating);
-
         // Creating and storing an image tag
         var currencyImage = $("<img>");
         // Setting the src attribute of the image to a property pulled off the result item
